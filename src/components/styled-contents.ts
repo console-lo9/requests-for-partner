@@ -9,8 +9,8 @@ export const Wrapper = styled.div`
     align-content: center;
     flex-direction: column;
     @media screen and (max-width: 592px) {
-        position: fixed;
         padding: 0 20px;
+        position: fixed;
     } ;
 `;
 
