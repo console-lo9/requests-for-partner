@@ -2,12 +2,12 @@ import styled from 'styled-components';
 
 export const Wrapper = styled.div`
     display: flex;
+    align-content: center;
+    flex-direction: column;
     width: 100%;
     height: 100vh;
     padding: 0 155px;
     margin: auto;
-    align-content: center;
-    flex-direction: column;
     @media screen and (max-width: 592px) {
         padding: 0 20px;
         position: fixed;
