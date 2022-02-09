@@ -13,6 +13,9 @@
 | 이태림 |       [ttaerrim](https://github.com/ttaerrim)       | 필터링 기능 구현                                             |
 | 임수영 |     [penguin311](https://github.com/penguin311)     | CRA 초기 세팅, 토글 기능 구현                                |
 
+## 🧑🏻‍💻 스택
+`typescript` `react` `styled-component`
+
 ## ⚙ 설치
 
 ```
